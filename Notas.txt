@@ -1,0 +1,33 @@
+Anotações
+
+
+https://github.com/alexandreaquiles/vivo-back/tree/aula5
+https://github.com/alexandreaquiles/vivo-back/tree/aula6
+https://slides.com/aluraprojetos/vivo-nodejs#/11
+https://slides.com/aluraprojetos/vivo-nodejs#/12
+https://github.com/alexandreaquiles/vivo-front/tree/integrando-backend-whyus
+
+React
+https://telefonicacorp.sharepoint.com/:f:/s/Edutech.TMBNL/sitedaedutech/EhtgwXaxJAtMtJCTkFKu72wBN9Xo90-nMexd7i_3MmA56g?e=Exuaul
+
+MongoDB
+https://telefonicacorp.sharepoint.com/:f:/s/Edutech.TMBNL/sitedaedutech/Etj_Ao7chM9MqbaW914NBU0Bfs93agumnnBFtLxcLmaS7g?e=PkdjTl
+docker compose up -d 
+Atlas GCP - conta Free habilitada com minha conta Google
+
+Comandos: 
+    - Operadores de Consulta: 
+        - $eq   - equal to 
+        - $ne   - not equal 
+        - $gt   - greater than 
+        - $lt   - less than --> exemplo: db.produtos.find({ preco: { $lt: 100 } }) 
+        - $gte  - greater than or equal to --> exemplo: db.produtos.find({ preco: { $gte: 100 } })
+        - $lte  - less than or equal to 
+        - $in   - "in" - Pertence a --> exemplo: db.produtos.find({ categoria: { $in: ["eletrônicos", "móveis", "roupas"] } })
+
+
+
+Notas
+o compass é o equivalente do kibana para visualização de documentos json analise, consultas, validação de schemas e etc
+o compass é uma solução GUI para consumir instâncias do mongodb seja cloud ou localmente 
+o community é o banco de dados em si, tem os componentes de shell, o mongos e o mongod que rondam junto com o sistema operacional

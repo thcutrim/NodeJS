@@ -1,0 +1,62 @@
+[
+  {
+    "numero": "0",
+    "title": "500 Mega",
+    "price": "R$120,00/mês",
+    "details": [
+      "Internet Fibra 500 Mbps",
+      "Download até 500 Mbps",
+      "Upload até 250 Mbps",
+      "Vários apps inclusos*"
+    ],
+    "offer": "Oferta imperdível: R$30 OFF"
+  },
+  {
+    "numero": "1",
+    "title": "700 Mega",
+    "price": "R$150,00/mês",
+    "details": [
+      "Internet Fibra 700 Mbps",
+      "Download até 700 Mbps",
+      "Upload até 350 Mbps",
+      "Vários apps inclusos*"
+    ],
+    "offer": "Oferta imperdível: R$50 OFF"
+  },
+  {
+    "numero": "2",
+    "title": "1 Giga",
+    "price": "R$500,00/mês",
+    "details": [
+      "Internet Fibra 1 Gbps",
+      "Download até 1 Gbps",
+      "Upload até 500 Mbps",
+      "Vários apps inclusos*"
+    ]
+  },
+  {
+    "numero": "3",
+    "title": "2 Gigas",
+    "price": "R$750,00/mês",
+    "details": [
+      "Internet Fibra 2 Gbps",
+      "Download até 2 Gbps",
+      "Upload até 1 Gbps",
+      "Vários apps inclusos*"
+    ]
+  },
+  {
+    "numero": "4",
+    "title": "5 Gigas - Gamer",
+    "price": "R$900,00/mês",
+    "details": [
+      "Internet Fibra 5 Gbps",
+      "Download até 3.5 Gbps",
+      "Upload até 2 Gbps",
+      "Vários apps inclusos*",
+      "Plano básico de jogos inclusos",
+      "Ping de no máximo 6ms",
+      "Desempenho total para jogos"
+    ]
+  }
+]
